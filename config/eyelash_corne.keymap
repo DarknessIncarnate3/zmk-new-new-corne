@@ -139,7 +139,7 @@
         compatible = "zmk,keymap";
 
         qwerty {
-            display-name = "qwerty";
+            display-name = "col";
             bindings = <
 &kp TAB                  &kp Q  &kp W  &kp F                 &kp P      &kp G                                          &kp LA(UP)                   &kp J                &kp L                        &kp U                    &kp Y    &kp SEMI  &kp BSPC
 &zFast_Mod LCTRL ESCAPE  &kp A  &kp R  &kp S                 &kp T      &kp D                            &kp LA(LEFT)  &none         &kp LA(RIGHT)  &kp H                &kp N                        &kp E                    &kp I    &kp O     &kp SQT
